@@ -15,4 +15,15 @@ Smart Irrigation System using esp8266, Soil moisture, 5v relay, pump, blynk.
 
 6.Connecting Wires & Breadboard: For circuit connections 
 
+# Software specification
+
+1.Programming Language: C/C++ (Arduino IDE) 
+
+2.Development Environment: Arduino IDE 
+
+3.Cloud Platform: Blynk App for remote monitoring & control 
+
+4.Communication Protocol: WiFi (NodeMCU to Blynk Server)
+
+
  
